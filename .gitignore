@@ -1,3 +1,4 @@
 myenv/
 .env
 downloaded_files/
+.DS_STORE
